@@ -214,3 +214,4 @@ The model was not trained to be factual or true representations of people or eve
 ### Bias
 While the capabilities of image generation models are impressive, they can also reinforce or exacerbate social biases.
 "# aaaaaa" 
+"# aaaaaa" 
